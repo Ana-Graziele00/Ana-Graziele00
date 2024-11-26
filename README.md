@@ -1,11 +1,31 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C42DA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0C42DA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Ana+Graziele+de+Almeida+Santos;Eu+tenho+17+anos;Eu+sou+de+Açailândia,+MA;Estou+cursando+o+técnico+em+informática+no+IFMA;Seja+bem+vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Ana+Graziele+de+Almeida+Santos;Eu+tenho+17+anos;Eu+sou+de+Açailândia,+MA;Estou+cursando+o+técnico+em+informática+no+IFMA;Seja+bem+-+vindo!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ana-Graziele00&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ana Graziele github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Graziele00&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+
+### Minhas habilidades pessoais:
+- 💬 ** Comunicativa e articulada**: Tenho facilidade para expressar minhas ideias de maneira clara e objetiva, seja em debates, apresentações ou conversas informais. Acredito que a comunicação é uma ferramenta essencial para resolver problemas e fortalecer conexões.
+- 🎯 ** Trabalho em equipe**: Valorizo a colaboração e acredito no poder do trabalho conjunto para alcançar objetivos comuns. Sou aberta a ouvir diferentes perspectivas e contribuir com ideias.  
+- 🌟 ** Adaptabilidade**: Consigo me ajustar rapidamente a mudanças e novos desafios, mantendo uma atitude positiva e resiliente.  
+- 🤝 ** Empatia**: Valorizo a construção de relacionamentos sólidos e baseados em confiança.
+- 🌀 ** Resolução de conflitos**: Habilidade para mediar situações difíceis e ajudar a alcançar soluções que beneficiem todos os envolvidos. 
+- 💬 ** Habilidade de negociação**: Negociador habilidoso em construir consenso e alcançar resultados mutuamente benéficos.
+
+
+### Informações profissionais:
+Meu objetivo é aprimorar continuamente minhas habilidades em desenvolvimento web, buscando elevar meu nível de conhecimento e competência. Atualmente, mantenho-me atualizada com as tendências da área, com um foco especial em inteligência artificial, tema central do meu Trabalho de Conclusão de Curso (TCC).
+
+📘 Desenvolvimento de um e-book sobre IA na Educação:
+Estou trabalhando na criação de um e-book que explora o impacto da inteligência artificial no setor educacional. O conteúdo aborda tópicos como:
+
+Vantagens e desvantagens da aplicação de IA na educação;
+Principais aplicações e exemplos práticos;
+Desafios para implementação e soluções possíveis;
+Reflexões sobre o futuro da tecnologia na formação de estudantes e educadores. 
+
+
+  
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ana-Graziele00&bg_color=000000&color=0C42DA&line=F70730&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -25,24 +45,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C42DA&height=120&section=footer"/>
 
 
-### Minhas habilidades pessoais:
-- 💬 ** Comunicativa e articulada**: Tenho facilidade para expressar minhas ideias de maneira clara e objetiva, seja em debates, apresentações ou conversas informais. Acredito que a comunicação é uma ferramenta essencial para resolver problemas e fortalecer conexões.
-- 🎯 ** Trabalho em equipe**: Valorizo a colaboração e acredito no poder do trabalho conjunto para alcançar objetivos comuns. Sou aberta a ouvir diferentes perspectivas e contribuir com ideias.  
-- 🌟 ** Adaptabilidade**: Consigo me ajustar rapidamente a mudanças e novos desafios, mantendo uma atitude positiva e resiliente.  
-- 🤝 ** Empatia**: Valorizo o respeito e a compreensão nas relações interpessoais, buscando sempre criar um ambiente acolhedor e colaborativo. 
-- 🌀 ** Resolução de conflitos**: Habilidade para mediar situações difíceis e ajudar a alcançar soluções que beneficiem todos os envolvidos. 
-- 💬 ** Habilidade de negociação**: Sou capaz de argumentar de forma persuasiva e equilibrada, buscando soluções vantajosas para todas as partes envolvidas.
 
-### Informações profissionais:
-Meu objetivo é aprimorar continuamente minhas habilidades em desenvolvimento web, buscando elevar meu nível de conhecimento e competência. Atualmente, mantenho-me atualizada com as tendências da área, com um foco especial em inteligência artificial, tema central do meu Trabalho de Conclusão de Curso (TCC).
-
-📘 Desenvolvimento de um e-book sobre IA na Educação:
-Estou trabalhando na criação de um e-book que explora o impacto da inteligência artificial no setor educacional. O conteúdo aborda tópicos como:
-
-Vantagens e desvantagens da aplicação de IA na educação;
-Principais aplicações e exemplos práticos;
-Desafios para implementação e soluções possíveis;
-Reflexões sobre o futuro da tecnologia na formação de estudantes e educadores. 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ana-Graziele00&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ana Graziele github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Graziele00&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
  
 ### Linguagens que utilizo:
