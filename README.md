@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C42DA&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0C42DA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Ana+Graziele;Eu+tenho+17+anos;Eu+sou+de+Açailândia,+MA;Estou+cursando+o+técnico+em+informática+no+IFMA;Seja+bem+vindo!+:%29)](https://git.io/typing-svg) 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0C42DA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Ana+Graziele+de+Almeida+Santos;Eu+tenho+17+anos;Eu+sou+de+Açailândia,+MA;Estou+cursando+o+técnico+em+informática+no+IFMA;Seja+bem+vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ana-Graziele00&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ana Graziele github stats" /> 
@@ -14,45 +14,54 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/ana.graziele?igsh=czVwNjIwazBpeHJz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=F2F707"</a>
-</div> 
+  <a href="mailto:anagraziele@acad.ifma.edu.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="linkedin.com/in/ana-graziele-de-almeida-santos-7a5736316" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+ </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C42DA&height=120&section=footer"/>
+
+
+### Minhas habilidades pessoais:
+- 💬 ** Comunicativa e articulada**: Tenho facilidade para expressar minhas ideias de maneira clara e objetiva, seja em debates, apresentações ou conversas informais. Acredito que a comunicação é uma ferramenta essencial para resolver problemas e fortalecer conexões.
+- 🎯 ** Trabalho em equipe**: Valorizo a colaboração e acredito no poder do trabalho conjunto para alcançar objetivos comuns. Sou aberta a ouvir diferentes perspectivas e contribuir com ideias.  
+- 🌟 ** Adaptabilidade**: Consigo me ajustar rapidamente a mudanças e novos desafios, mantendo uma atitude positiva e resiliente.  
+- 🤝 ** Empatia**: Valorizo o respeito e a compreensão nas relações interpessoais, buscando sempre criar um ambiente acolhedor e colaborativo. 
+- 🌀 ** Resolução de conflitos**: Habilidade para mediar situações difíceis e ajudar a alcançar soluções que beneficiem todos os envolvidos. 
+- 💬 ** Habilidade de negociação**: Sou capaz de argumentar de forma persuasiva e equilibrada, buscando soluções vantajosas para todas as partes envolvidas.
+
+### Informações profissionais:
+Meu objetivo é aprimorar continuamente minhas habilidades em desenvolvimento web, buscando elevar meu nível de conhecimento e competência. Atualmente, mantenho-me atualizada com as tendências da área, com um foco especial em inteligência artificial, tema central do meu Trabalho de Conclusão de Curso (TCC).
+
+📘 Desenvolvimento de um e-book sobre IA na Educação:
+Estou trabalhando na criação de um e-book que explora o impacto da inteligência artificial no setor educacional. O conteúdo aborda tópicos como:
+
+Vantagens e desvantagens da aplicação de IA na educação;
+Principais aplicações e exemplos práticos;
+Desafios para implementação e soluções possíveis;
+Reflexões sobre o futuro da tecnologia na formação de estudantes e educadores. 
+
  
-### Main skills:
+### Linguagens que utilizo:
 ![PYTHON](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![css3](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3&logoColor=purple&labelColor=0D1117)&nbsp; 
  
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+### Ferramentas que utilizo:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Wordpress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div>
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C42DA&height=120&section=footer"/>
 
 
