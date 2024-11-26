@@ -17,7 +17,7 @@
   <a href="mailto:anagraziele@acad.ifma.edu.br" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-  <a href="linkedin.com/in/ana-graziele-de-almeida-santos-7a5736316" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-graziele-de-almeida-santos-7a5736316/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
  </div>
